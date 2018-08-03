@@ -1,0 +1,217 @@
+<<<<<<< HEAD
+Frase: La pianta dell'alloggio è disponibile in ufficio, accanto all'appartamento; dal disegno è possibile cogliere i dettagli dell'architettura dello stabile, sulla distribuzione dei vani e la disposizione di porte e finestre.
+
+	Disambiguazione di 'pianta' con lesk: In architettura, la pianta o icnografia è un tipo specifico di disegno architettonico ridotto in scala, in particolare si tratta di una sezione orizzontale del manufatto eseguita ad un livello significativo, come quello dei vani finestre e porte, e poi proiettata con direzione ortogonale su un piano di riferimento orizzontale, coincidente spesso con quello di calpestato.
+
+	Disambiguazione di 'pianta' con extended lesk: In architettura, la pianta o icnografia è un tipo specifico di disegno architettonico ridotto in scala, in particolare si tratta di una sezione orizzontale del manufatto eseguita ad un livello significativo, come quello dei vani finestre e porte, e poi proiettata con direzione ortogonale su un piano di riferimento orizzontale, coincidente spesso con quello di calpestato.Disegno e studio che determina la struttura di qualcosaDisegno della vista dall'alto o della sezione orizzontale di una costruzione o dei suoi singoli ambienti interni.
+
+Frase: I platani sono piante ad alto fusto, organismi viventi: non ha senso toglierli per fare posto a un parcheggio.
+
+	Disambiguazione di 'piante' con lesk: Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo.
+
+	Disambiguazione di 'piante' con extended lesk: Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo.Una entità vivente;ogni essere vivente.Ogni essere viventeUn organismo vivente, in biologia, è un'entità, unicellulare o pluricellulare, soggetta alle leggi del mondo fisico ed al controllo da parte dei sistemi che esprimono l'informazione in esso contenuta, informazione codificata primariamente nel genoma e nel materiale genetico altrimenti veicolato, ad esempio negli organuli cellulari, è sottoposta a tutti i meccanismi tipici dell'espressione, compresi quelli evidenziati nell'epigenetica.Quello dell'essere è un tema che attraversa tutta la storia della filosofia fin dai suoi esordi.Concetto che, con varie interpretazioni, indica le cose che esistonoEntità dotata di vita
+
+Frase: Non riesce ad appoggiare la pianta del piede perchÃ© ha un profondo taglio vicino allâ€™alluce.
+
+	Disambiguazione di 'pianta' con lesk: La pianta del piede o superficie plantare del piede è, nell'uomo in posizione ortostatica, la superficie inferiore del piede.
+
+	Disambiguazione di 'pianta' con extended lesk: La pianta del piede o superficie plantare del piede è, nell'uomo in posizione ortostatica, la superficie inferiore del piede.Disciplina che studia la struttura e la forma di animali e vegetaliL'anatomia è una branca della biologia che studia la forma e la struttura degli organismi: del corpo umano, degli animali, delle piante.Studio della forma e della struttura degli organismiScienza che studia la struttura fisica di animali e piante.
+
+Frase: Si tratta di un uomo facilmente riconoscibile: ha una testa piccola, gli occhi sporgenti, naso adunco e piccole orecchie a sventola.
+
+	Disambiguazione di 'testa' con lesk: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+
+	Disambiguazione di 'testa' con extended lesk: La massa dei capelliI peli sono piccole formazioni sottili e filiformi che crescono sulla cute della maggior parte dei mammiferi, mentre le altre specie non li posseggono.Piccole formazioni sottili e filiformi che crescono sulla cute della maggior parte dei mammiferiInsieme o massa di filamenti che crescono sulla pelle degli uomini e degli animali e che ricoprono una parte della testa e del corpo.
+
+Frase: Come per tutte le cose, bisogna usare la testa, una punta di cervello, per non prendere decisioni fuori dal senso dellâ€™intelletto.
+
+	Disambiguazione di 'testa' con lesk: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+
+	Disambiguazione di 'testa' con extended lesk: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+
+Frase: La testa della struttura di parsing Ã¨ lâ€™elemento che corrisponde al sintagma piÃ¹ alto dellâ€™albero; in genere si tratta di un verbo.
+
+	Disambiguazione di 'testa' con lesk: Il sintagma è, in linguistica strutturale, un'unità della struttura sintattica di un enunciato.
+
+	Disambiguazione di 'testa' con extended lesk: Il sintagma è, in linguistica strutturale, un'unità della struttura sintattica di un enunciato.
+
+Frase: Amo andare a cavallo, ogni mattino, nel parco.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: Il cavallo di questi calzoni Ã¨ troppo basso per la mia taglia.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: In palestra sono bravissima nel saltare il cavallo.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: La mia macchina ha 120 cavalli di potenza.
+
+	Disambiguazione di 'cavalli' con lesk: Il cavallo vapore è il nome dell'unità di misura della potenza.
+
+	Disambiguazione di 'cavalli' con extended lesk: Il cavallo vapore è il nome dell'unità di misura della potenza.Dispositivo che produce energia elettrica dall'attività del motore.
+
+Frase: Mi manca poco per concludere il lavoro: sono quasi a cavallo.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: Il fattore dirige la coltivazione dei campi per conto dei proprietari.
+
+	Disambiguazione di 'fattore' con lesk: Componente, elemento astratto che entra in gioco in un data situazione o fatto
+
+	Disambiguazione di 'fattore' con extended lesk: Componente, elemento astratto che entra in gioco in un data situazione o fattoUna delle sezioni in cui qualcosa si divide e che prese nell'insieme costituiscono un tutto;parte che risulta da una ripartizione;parte risultante da una divisione;l'effetto del dividere in più parti.Parte che risulta da una ripartizioneParte risultante da una divisioneL'effetto del dividere in più parti
+
+Frase: Il fattore principale del suo successo Ã¨ la sua attitudine analitica.
+
+	Disambiguazione di 'fattore' con lesk: Componente, elemento astratto che entra in gioco in un data situazione o fatto
+
+	Disambiguazione di 'fattore' con extended lesk: Componente, elemento astratto che entra in gioco in un data situazione o fattoUna delle sezioni in cui qualcosa si divide e che prese nell'insieme costituiscono un tutto;parte che risulta da una ripartizione;parte risultante da una divisione;l'effetto del dividere in più parti.Parte che risulta da una ripartizioneParte risultante da una divisioneL'effetto del dividere in più parti
+
+Frase: I due fattori dellâ€™espressione devono soddisfare la proprietÃ  di essere primi fra loro.
+
+	Disambiguazione di 'fattori' con lesk: == Persone ==
+
+	Disambiguazione di 'fattori' con extended lesk: == Persone ==
+
+Frase: Il rombo Ã¨ un pesce di mare; porta entrambi gli occhi su di un lato, nella fattispecie il sinistro, ed ha il lato privo di occhi roseo e senza pigmenti; ha la tipica forma quadrangolare.
+
+	Disambiguazione di 'rombo' con lesk: Il rombo chiodato è un pesce d'acqua salata appartenente alla famiglia Scophthalmidae.
+
+	Disambiguazione di 'rombo' con extended lesk: Il rombo chiodato è un pesce d'acqua salata appartenente alla famiglia Scophthalmidae.
+
+Frase: Il rombo Ã¨ una figura geometrica i cui quattro lati hanno la stessa lunghezza.
+
+	Disambiguazione di 'rombo' con lesk: Losanga è un termine utilizzato in araldica per indicare una figura geometrica di quattro lati con l'angolo superiore e quello inferiore acuti, mentre i due laterali sono ottusi.
+
+	Disambiguazione di 'rombo' con extended lesk: Losanga è un termine utilizzato in araldica per indicare una figura geometrica di quattro lati con l'angolo superiore e quello inferiore acuti, mentre i due laterali sono ottusi.Pezza è un termine utilizzato in araldica per indicare un insieme di carichi araldici caratterizzati dall'avere una forma geometrica che non è assimilabile ad alcuna immagine connessa con il mondo naturale o immaginario.Divise in ordinarie ed onorevoli
+
+Frase: Ognuna delle 32 sezioni in cui si divide la rosa della bussola, e che corrispondono alle principali direzioni del vento, si dice rombo.
+
+	Disambiguazione di 'rombo' con lesk: Il rombo è un antico strumento musicale rituale, usato in tutto il mondo per la caccia e per riti tribali.
+
+	Disambiguazione di 'rombo' con extended lesk: Il rombo è un antico strumento musicale rituale, usato in tutto il mondo per la caccia e per riti tribali.Un rito indica ogni atto, o insieme di atti, che viene eseguito secondo norme codificate.Citazioni sul rito, il rituale e la cerimonia.
+
+Frase: Le vettovaglie caddero, producendo un rumore sordo, profondo e cupo, simile al rombo di un tuono.
+
+	Disambiguazione di 'rombo' con lesk: Rumore cupo e sordo
+
+	Disambiguazione di 'rombo' con extended lesk: Rumore cupo e sordoIl rumore è un segnale di disturbo rispetto all'informazione trasmessa in un sistema.
+=======
+Frase: La pianta dell'alloggio è disponibile in ufficio, accanto all'appartamento; dal disegno è possibile cogliere i dettagli dell'architettura dello stabile, sulla distribuzione dei vani e la disposizione di porte e finestre.
+
+	Disambiguazione di 'pianta' con lesk: In architettura, la pianta o icnografia è un tipo specifico di disegno architettonico ridotto in scala, in particolare si tratta di una sezione orizzontale del manufatto eseguita ad un livello significativo, come quello dei vani finestre e porte, e poi proiettata con direzione ortogonale su un piano di riferimento orizzontale, coincidente spesso con quello di calpestato.
+
+	Disambiguazione di 'pianta' con extended lesk: In architettura, la pianta o icnografia è un tipo specifico di disegno architettonico ridotto in scala, in particolare si tratta di una sezione orizzontale del manufatto eseguita ad un livello significativo, come quello dei vani finestre e porte, e poi proiettata con direzione ortogonale su un piano di riferimento orizzontale, coincidente spesso con quello di calpestato.Disegno e studio che determina la struttura di qualcosaDisegno della vista dall'alto o della sezione orizzontale di una costruzione o dei suoi singoli ambienti interni.
+
+Frase: I platani sono piante ad alto fusto, organismi viventi: non ha senso toglierli per fare posto a un parcheggio.
+
+	Disambiguazione di 'piante' con lesk: Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo.
+
+	Disambiguazione di 'piante' con extended lesk: Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo.Una entità vivente;ogni essere vivente.Ogni essere viventeUn organismo vivente, in biologia, è un'entità, unicellulare o pluricellulare, soggetta alle leggi del mondo fisico ed al controllo da parte dei sistemi che esprimono l'informazione in esso contenuta, informazione codificata primariamente nel genoma e nel materiale genetico altrimenti veicolato, ad esempio negli organuli cellulari, è sottoposta a tutti i meccanismi tipici dell'espressione, compresi quelli evidenziati nell'epigenetica.Quello dell'essere è un tema che attraversa tutta la storia della filosofia fin dai suoi esordi.Concetto che, con varie interpretazioni, indica le cose che esistonoEntità dotata di vita
+
+Frase: Non riesce ad appoggiare la pianta del piede perchÃ© ha un profondo taglio vicino allâ€™alluce.
+
+	Disambiguazione di 'pianta' con lesk: La pianta del piede o superficie plantare del piede è, nell'uomo in posizione ortostatica, la superficie inferiore del piede.
+
+	Disambiguazione di 'pianta' con extended lesk: La pianta del piede o superficie plantare del piede è, nell'uomo in posizione ortostatica, la superficie inferiore del piede.Disciplina che studia la struttura e la forma di animali e vegetaliL'anatomia è una branca della biologia che studia la forma e la struttura degli organismi: del corpo umano, degli animali, delle piante.Studio della forma e della struttura degli organismiScienza che studia la struttura fisica di animali e piante.
+
+Frase: Si tratta di un uomo facilmente riconoscibile: ha una testa piccola, gli occhi sporgenti, naso adunco e piccole orecchie a sventola.
+
+	Disambiguazione di 'testa' con lesk: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+
+	Disambiguazione di 'testa' con extended lesk: La massa dei capelliI peli sono piccole formazioni sottili e filiformi che crescono sulla cute della maggior parte dei mammiferi, mentre le altre specie non li posseggono.Piccole formazioni sottili e filiformi che crescono sulla cute della maggior parte dei mammiferiInsieme o massa di filamenti che crescono sulla pelle degli uomini e degli animali e che ricoprono una parte della testa e del corpo.
+
+Frase: Come per tutte le cose, bisogna usare la testa, una punta di cervello, per non prendere decisioni fuori dal senso dellâ€™intelletto.
+
+	Disambiguazione di 'testa' con lesk: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+
+	Disambiguazione di 'testa' con extended lesk: La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso.
+
+Frase: La testa della struttura di parsing Ã¨ lâ€™elemento che corrisponde al sintagma piÃ¹ alto dellâ€™albero; in genere si tratta di un verbo.
+
+	Disambiguazione di 'testa' con lesk: Il sintagma è, in linguistica strutturale, un'unità della struttura sintattica di un enunciato.
+
+	Disambiguazione di 'testa' con extended lesk: Il sintagma è, in linguistica strutturale, un'unità della struttura sintattica di un enunciato.
+
+Frase: Amo andare a cavallo, ogni mattino, nel parco.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: Il cavallo di questi calzoni Ã¨ troppo basso per la mia taglia.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: In palestra sono bravissima nel saltare il cavallo.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: La mia macchina ha 120 cavalli di potenza.
+
+	Disambiguazione di 'cavalli' con lesk: Il cavallo vapore è il nome dell'unità di misura della potenza.
+
+	Disambiguazione di 'cavalli' con extended lesk: Il cavallo vapore è il nome dell'unità di misura della potenza.Dispositivo che produce energia elettrica dall'attività del motore.
+
+Frase: Mi manca poco per concludere il lavoro: sono quasi a cavallo.
+
+	Disambiguazione di 'cavallo' con lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.
+
+	Disambiguazione di 'cavallo' con extended lesk: In araldica il cavallo è simbolo di valore, animo intrepido ed è considerato una delle figure nobili del blasone.Rappresentazione di un animale in araldicaGli animali araldici sono figure araldiche considerate le più nobili e hanno spesso la funzione di simboleggiare le qualità o il potere del titolare dello stemma.
+
+Frase: Il fattore dirige la coltivazione dei campi per conto dei proprietari.
+
+	Disambiguazione di 'fattore' con lesk: Componente, elemento astratto che entra in gioco in un data situazione o fatto
+
+	Disambiguazione di 'fattore' con extended lesk: Componente, elemento astratto che entra in gioco in un data situazione o fattoUna delle sezioni in cui qualcosa si divide e che prese nell'insieme costituiscono un tutto;parte che risulta da una ripartizione;parte risultante da una divisione;l'effetto del dividere in più parti.Parte che risulta da una ripartizioneParte risultante da una divisioneL'effetto del dividere in più parti
+
+Frase: Il fattore principale del suo successo Ã¨ la sua attitudine analitica.
+
+	Disambiguazione di 'fattore' con lesk: Componente, elemento astratto che entra in gioco in un data situazione o fatto
+
+	Disambiguazione di 'fattore' con extended lesk: Componente, elemento astratto che entra in gioco in un data situazione o fattoUna delle sezioni in cui qualcosa si divide e che prese nell'insieme costituiscono un tutto;parte che risulta da una ripartizione;parte risultante da una divisione;l'effetto del dividere in più parti.Parte che risulta da una ripartizioneParte risultante da una divisioneL'effetto del dividere in più parti
+
+Frase: I due fattori dellâ€™espressione devono soddisfare la proprietÃ  di essere primi fra loro.
+
+	Disambiguazione di 'fattori' con lesk: == Persone ==
+
+	Disambiguazione di 'fattori' con extended lesk: == Persone ==
+
+Frase: Il rombo Ã¨ un pesce di mare; porta entrambi gli occhi su di un lato, nella fattispecie il sinistro, ed ha il lato privo di occhi roseo e senza pigmenti; ha la tipica forma quadrangolare.
+
+	Disambiguazione di 'rombo' con lesk: Il rombo chiodato è un pesce d'acqua salata appartenente alla famiglia Scophthalmidae.
+
+	Disambiguazione di 'rombo' con extended lesk: Il rombo chiodato è un pesce d'acqua salata appartenente alla famiglia Scophthalmidae.
+
+Frase: Il rombo Ã¨ una figura geometrica i cui quattro lati hanno la stessa lunghezza.
+
+	Disambiguazione di 'rombo' con lesk: Losanga è un termine utilizzato in araldica per indicare una figura geometrica di quattro lati con l'angolo superiore e quello inferiore acuti, mentre i due laterali sono ottusi.
+
+	Disambiguazione di 'rombo' con extended lesk: Losanga è un termine utilizzato in araldica per indicare una figura geometrica di quattro lati con l'angolo superiore e quello inferiore acuti, mentre i due laterali sono ottusi.Pezza è un termine utilizzato in araldica per indicare un insieme di carichi araldici caratterizzati dall'avere una forma geometrica che non è assimilabile ad alcuna immagine connessa con il mondo naturale o immaginario.Divise in ordinarie ed onorevoli
+
+Frase: Ognuna delle 32 sezioni in cui si divide la rosa della bussola, e che corrispondono alle principali direzioni del vento, si dice rombo.
+
+	Disambiguazione di 'rombo' con lesk: Il rombo è un antico strumento musicale rituale, usato in tutto il mondo per la caccia e per riti tribali.
+
+	Disambiguazione di 'rombo' con extended lesk: Il rombo è un antico strumento musicale rituale, usato in tutto il mondo per la caccia e per riti tribali.Un rito indica ogni atto, o insieme di atti, che viene eseguito secondo norme codificate.Citazioni sul rito, il rituale e la cerimonia.
+
+Frase: Le vettovaglie caddero, producendo un rumore sordo, profondo e cupo, simile al rombo di un tuono.
+
+	Disambiguazione di 'rombo' con lesk: Rumore cupo e sordo
+
+	Disambiguazione di 'rombo' con extended lesk: Rumore cupo e sordoIl rumore è un segnale di disturbo rispetto all'informazione trasmessa in un sistema.
+>>>>>>> master

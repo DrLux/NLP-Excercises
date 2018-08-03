@@ -1,0 +1,140 @@
+Sentence: Arms bend at the elbow. -> Word: arms
+
+	My Lesk: a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb (Synset('arm.n.01')) 
+
+	Fifo Lesk: a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb (Synset('arm.n.01')) 
+
+	My CS Lesk: the part of an armchair or sofa that supports the elbow and forearm of a seated person (Synset('arm.n.04')) 
+
+	Wordnet Library Lesk: the part of a garment that is attached at the armhole and that provides a cloth covering for the arm (Synset('sleeve.n.01'))
+
+Sentence: Germany sells arms to Saudi Arabia. -> Word: arms
+
+	My Lesk: any projection that is thought to resemble a human arm (Synset('arm.n.02')) 
+
+	Fifo Lesk: a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb (Synset('arm.n.01')) 
+
+	My CS Lesk: any instrument or instrumentality used in fighting or hunting (Synset('weapon.n.01')) 
+
+	Wordnet Library Lesk: supply with arms (Synset('arm.v.02'))
+
+Sentence: The key broke in the lock. -> Word: key
+
+	My Lesk: metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated (Synset('key.n.01')) 
+
+	Fifo Lesk: metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated (Synset('key.n.01')) 
+
+	My CS Lesk: metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated (Synset('key.n.01')) 
+
+	Wordnet Library Lesk: metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated (Synset('key.n.01'))
+
+Sentence: The key problem was not one of quality but of quantity. -> Word: key
+
+	My Lesk: serving as an essential component (Synset('cardinal.s.01')) 
+
+	Fifo Lesk: serving as an essential component (Synset('cardinal.s.01')) 
+
+	My CS Lesk: serving as an essential component (Synset('cardinal.s.01')) 
+
+	Wordnet Library Lesk: United States lawyer and poet who wrote a poem after witnessing the British attack on Baltimore during the War of 1812; the poem was later set to music and entitled `The Star-Spangled Banner' (1779-1843) (Synset('key.n.07'))
+
+Sentence: Work out the solution in your head. -> Word: solution
+
+	My Lesk: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution (Synset('solution.n.01')) 
+
+	Fifo Lesk: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution (Synset('solution.n.01')) 
+
+	My CS Lesk: a method for solving a problem (Synset('solution.n.03')) 
+
+	Wordnet Library Lesk: the successful action of solving a problem (Synset('solution.n.05'))
+
+Sentence: Heat the solution to 75° Celsius. -> Word: solution
+
+	My Lesk: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution (Synset('solution.n.01')) 
+
+	Fifo Lesk: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution (Synset('solution.n.01')) 
+
+	My CS Lesk: a method for solving a problem (Synset('solution.n.03')) 
+
+	Wordnet Library Lesk: a statement that solves a problem or explains how to solve the problem (Synset('solution.n.02'))
+
+Sentence: The house was burnt to ashes while the owner returned. -> Word: ashes
+
+	My Lesk: the residue that remains when something is burned (Synset('ash.n.01')) 
+
+	Fifo Lesk: the residue that remains when something is burned (Synset('ash.n.01')) 
+
+	My CS Lesk: the residue that remains when something is burned (Synset('ash.n.01')) 
+
+	Wordnet Library Lesk: convert into ashes (Synset('ash.v.01'))
+
+Sentence: This table is made of ash wood. -> Word: ash
+
+	My Lesk: strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats (Synset('ash.n.03')) 
+
+	Fifo Lesk: strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats (Synset('ash.n.03')) 
+
+	My CS Lesk: strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats (Synset('ash.n.03')) 
+
+	Wordnet Library Lesk: strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats (Synset('ash.n.03'))
+
+Sentence: The lunch with her boss took longer than she expected. -> Word: lunch
+
+	My Lesk: a midday meal (Synset('lunch.n.01')) 
+
+	Fifo Lesk: a midday meal (Synset('lunch.n.01')) 
+
+	My CS Lesk: a midday meal (Synset('lunch.n.01')) 
+
+	Wordnet Library Lesk: provide a midday meal for (Synset('lunch.v.02'))
+
+Sentence: She packed her lunch in her purse. -> Word: lunch
+
+	My Lesk: a midday meal (Synset('lunch.n.01')) 
+
+	Fifo Lesk: a midday meal (Synset('lunch.n.01')) 
+
+	My CS Lesk: a midday meal (Synset('lunch.n.01')) 
+
+	Wordnet Library Lesk: provide a midday meal for (Synset('lunch.v.02'))
+
+Sentence: The classification of the genetic data took two years. -> Word: classification
+
+	My Lesk: the act of distributing things into classes or categories of the same type (Synset('categorization.n.03')) 
+
+	Fifo Lesk: the act of distributing things into classes or categories of the same type (Synset('categorization.n.03')) 
+
+	My CS Lesk: a group of people or things arranged by class or category (Synset('classification.n.02')) 
+
+	Wordnet Library Lesk: the basic cognitive process of arranging into classes or categories (Synset('classification.n.03'))
+
+Sentence: The journal Science published the classification this month. -> Word: classification
+
+	My Lesk: the act of distributing things into classes or categories of the same type (Synset('categorization.n.03')) 
+
+	Fifo Lesk: the act of distributing things into classes or categories of the same type (Synset('categorization.n.03')) 
+
+	My CS Lesk: a group of people or things arranged by class or category (Synset('classification.n.02')) 
+
+	Wordnet Library Lesk: restriction imposed by the government on documents or weapons that are available only to certain authorized people (Synset('classification.n.04'))
+
+Sentence: His cottage is near a small wood. -> Word: wood
+
+	My Lesk: the hard fibrous lignified substance under the bark of trees (Synset('wood.n.01')) 
+
+	Fifo Lesk: the hard fibrous lignified substance under the bark of trees (Synset('wood.n.01')) 
+
+	My CS Lesk: any wind instrument other than the brass instruments (Synset('woodwind.n.01')) 
+
+	Wordnet Library Lesk: a golf club with a long shaft used to hit long shots; originally made with a wooden head (Synset('wood.n.08'))
+
+Sentence: The statue was made out of a block of wood -> Word: wood
+
+	My Lesk: the hard fibrous lignified substance under the bark of trees (Synset('wood.n.01')) 
+
+	Fifo Lesk: the hard fibrous lignified substance under the bark of trees (Synset('wood.n.01')) 
+
+	My CS Lesk: any wind instrument other than the brass instruments (Synset('woodwind.n.01')) 
+
+	Wordnet Library Lesk: a golf club with a long shaft used to hit long shots; originally made with a wooden head (Synset('wood.n.08'))
+
